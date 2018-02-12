@@ -3,3 +3,25 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+/*reglas generales*/
+
+//Posiciones
+.relative{
+  position: relative;
+}
+.absolute{
+  position: absolute;
+}
+.text-center{
+  text-align: center;
+}
+.text-left {
+  text-align: left;
+}
+//Padding
+.pt-12{
+  padding-top: 12px;
+}
+.pb-12{
+  padding-bottom: 12px;
+}

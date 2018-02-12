@@ -1,4 +1,10 @@
 .color-prueba{
-    color: blue;
-    font-size: 3em;
+    //background-color: yellowgreen;
+}
+.bgTope{
+    height: 250px;
+    background: url('./../../assets/bgTope.png') no-repeat;
+    width: 100%;
+    background-position-x: 50%;
+    background-position-y: 50%;
 }
