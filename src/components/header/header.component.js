@@ -5,7 +5,7 @@ import './header.component.scss';
 class HeaderComponent extends Component {
     render() {
         return (
-            <div className='color-prueba'>
+            <div>
                 <div className='bgTope'>
                     <div className='container absolute'>
                         <div className='row'>
