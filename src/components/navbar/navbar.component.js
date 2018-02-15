@@ -11,16 +11,16 @@ class NavbarComponent extends Component {
                     <div className='col-md-11 offset-md-1'>
                         <ul className="nav justify-content-end">
                             <li className="nav-item">
-                                <a class="nav-link">INFORMACIÓN INSTITUCIONAL</a>
+                                <a className="nav-link">INFORMACIÓN INSTITUCIONAL</a>
                             </li>
                             <li className="nav-item">
-                                <a class="nav-link">PRODUCTOS</a>
+                                <a className="nav-link">PRODUCTOS</a>
                             </li>
                             <li className="nav-item">
-                                <a class="nav-link">SERVICIOS</a>
+                                <a className="nav-link">SERVICIOS</a>
                             </li>
                             <li className="nav-item">
-                                <a class="nav-link">ATENCIÓN AL CLIENTE</a>
+                                <a className="nav-link">ATENCIÓN AL CLIENTE</a>
                             </li>
                         </ul>
                     </div>
