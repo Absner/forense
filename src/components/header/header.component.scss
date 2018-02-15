@@ -5,3 +5,38 @@
     background-position-x: 50%;
     background-position-y: 50%;
 }
+
+.searchTextBox{
+    width: 169px;
+    height: 22px;
+    border: none;
+    margin-top: 25px;
+    /*background-color: beige;
+    -webkit-box-shadow: inset 10px 10px 1px -8px rgba(214,214,214,1);
+    -moz-box-shadow: inset 10px 10px 1px -8px rgba(214,214,214,1);
+    box-shadow: inset 10px 10px 1px -8px rgba(214,214,214,1);*/
+    background: url('./../../assets/bgSearchLeft.png') no-repeat;
+}
+
+.search{
+    top: 32px;
+    position: absolute;
+    .searchLupa {
+        width: 22px;
+        height: 22px;
+        background: url('./../../assets/bgSearchLupa.jpg');
+        margin-left: -10px;
+        padding-top: 5px;
+    }
+}
+
+
+
+
+
+
+
+
+.in-line{
+    display: inline-block;
+}
