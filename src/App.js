@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 //import logo from './logo.svg';
 import HeaderComponent from './components/header/header.component';
+import NavbarComponent from './components/navbar/navbar.component';
 import './App.scss';
 
 class App extends Component {
@@ -15,6 +16,7 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>*/}
         <HeaderComponent />
+        <NavbarComponent />
       </div>
     );
   }
