@@ -1,0 +1,22 @@
+.hr{
+    height: 13px;
+    widows: 910px;
+    background: url('./../../assets/noticiasBG.png') no-repeat center;
+}
+
+.paper{
+    height: 56px;
+    widows: 65px;
+    background: url('./../../assets/newsPaper_31.png') no-repeat center;
+
+}
+
+article{
+    text-align: justify;
+    font-size: 14px;
+    color: #999966;
+    span{
+        color: #9b976b;
+        font-weight: bold;
+    }
+}
