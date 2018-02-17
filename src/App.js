@@ -3,12 +3,13 @@ import React, { Component } from 'react';
 import HeaderComponent from './components/header/header.component';
 import NavbarComponent from './components/navbar/navbar.component';
 import CarrouselComponent from './components/carrousel/carrousel.component';
+import SilderComponente from './components/slider/slider.component';
 import './App.scss';
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
+      <div className="App relative">
         {/*<header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h1 className="App-title">Welcome to React</h1>
@@ -19,6 +20,10 @@ class App extends Component {
         <CarrouselComponent />
         <HeaderComponent />
         <NavbarComponent />
+        <SilderComponente />
+        
+        
+
       </div>
     );
   }
