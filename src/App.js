@@ -5,6 +5,7 @@ import NavbarComponent from './components/navbar/navbar.component';
 import CarrouselComponent from './components/carrousel/carrousel.component';
 import SilderComponente from './components/slider/slider.component';
 import PostComponent from './components/post/post.component';
+import FooterComponent from './components/footer/footer.component';
 import './App.scss';
 
 class App extends Component {
@@ -23,6 +24,7 @@ class App extends Component {
         <NavbarComponent />
         <SilderComponente />
         <PostComponent />
+        <FooterComponent />
         
         
 
