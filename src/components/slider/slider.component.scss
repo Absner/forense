@@ -1,0 +1,34 @@
+.bgSlider{
+    height: 125px;
+    width: 940px;
+    background: url('./../../assets/carousel/fondoCarrusel.png') no-repeat;
+    margin-top: 310px;
+
+    .bg-1{
+        width: 100%;
+        height: 120px;
+        background: url('./../../assets/carousel/Instrumento Inversion Directa.png') no-repeat;
+        background-position-x: -35px;
+        background-position-y: -15px;
+        background-size: 110%;
+        margin-left: 50px;
+        
+    }
+
+    .bg-2{
+        width: 100%;
+        height: 120px;
+        background: url('./../../assets/carousel/nuevobannertdc-1.png') no-repeat;
+        background-size: 100%;
+    }
+
+    .bg-3{
+        width: 100%;
+        height: 120px;
+        background: url('./../../assets/carousel/calendario bancario 2018.png') no-repeat;
+        background-size: 100%;
+        margin-left: -30px;
+        
+    }
+
+}

@@ -8,8 +8,6 @@ class CarrouselComponent extends Component {
         return (
             <div>
                 <div className='homeCarnaval'></div>
-                
-                {/*<img src={HOMECARNAVAL} alt='homeCarnaval' width='100%' />*/}
             </div>
         );
     }
