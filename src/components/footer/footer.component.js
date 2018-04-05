@@ -6,7 +6,7 @@ class FooterComponent extends Component {
         return (
             <div className='container' >
                 <div className='row mt-50'>
-                    hola mundo
+                    
                 </div>
             </div>
         );
